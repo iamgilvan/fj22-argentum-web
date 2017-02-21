@@ -7,4 +7,3 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:iamgilvan/fj22-argentum-web.git
 git push -u origin master
-
