@@ -9,7 +9,9 @@ import br.com.caelum.argentum.modelo.SerieTemporal;
 import br.com.caelum.argentum.ws.ClienteWebService;
 import java.net.MalformedURLException;
 import java.util.List;
-import javax.annotation.ManagedBean;
+
+import javax.faces.bean.ManagedBean;
+
 import org.primefaces.model.chart.ChartModel;
 
 
